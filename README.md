@@ -14,3 +14,7 @@ How to use LangChain and OpenAI's GPT models to create a translation service
 - **langchain_fastapi.py**: FastAPI app setup to expose the LangChain translation chain via an endpoint.
 - **langchain_with_fastapi.py**: Full integration of LangChain prompt chaining and FastAPI routing using `langserve`.
 
+## You can test API on
+- **[http://localhost:8000/chain/playground](http://localhost:8000/chain/playground)
+
+
