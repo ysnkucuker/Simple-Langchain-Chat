@@ -16,7 +16,7 @@ How to use LangChain and OpenAI's GPT models to create a translation service
 
 ## You can test API on
 - [http://localhost:8000/chain/playground](http://localhost:8000/chain/playground)
-- ![images](images/playground.png)
+- ![images](blob/main/images/playground.png)
 
 
 
